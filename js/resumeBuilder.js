@@ -10,7 +10,7 @@ var bio = {
     },
     "welcomeMessage": "This is my resume",
     "skills": [
-        "tap dancing", "eating pizza"
+        "tap dancing", "eating chimichangas"
     ],
     "biopic": "images/me.jpg"
 };
