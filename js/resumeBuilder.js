@@ -10,7 +10,7 @@ var bio = {
     },
     "welcomeMessage": "This is my resume",
     "skills": [
-        "tap dancing", "eating chimichangas"
+        "tap dancing", "balloon animals"
     ],
     "biopic": "images/me.jpg"
 };
@@ -106,14 +106,14 @@ var work = {
             "title": "Head Boss Lady",
             "location": "Istanbul, Turkey",
             "dates": "2001-present",
-            "description": "Ate candy, didn't do much else"
+            "description": "Ate candy, spread joy"
         },
         {
             "employer": "Father Time",
             "title": "Timekeeper",
             "location": "Seattle, WA",
             "dates": "1942-present",
-            "description": "Wax philosophical about the passage of time"
+            "description": "Waxed philosophical about the passage of time"
         }
     ]
 };
